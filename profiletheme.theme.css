@@ -1,0 +1,15 @@
+/**
+ * @name Profile Effects Remover
+ * @version 1.0.0
+ * @description Simple code to remove profile effects
+ * @author moneygangsta
+ */
+
+
+ .avatarDecoration_cf681a {
+    display: none;
+ }
+
+ .profileEffects__9b664 {
+    display: none;
+ }
